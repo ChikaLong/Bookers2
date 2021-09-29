@@ -1,0 +1,5 @@
+<h1><%= @another_entry.user.name %>さんとのチャット</h1>
+
+<div id="message-form">
+  <%= render 'chat', messages: @messages, room: @room %>
+</div>
