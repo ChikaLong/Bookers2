@@ -1,24 +1,12 @@
-# README
+# DMMWEBCAMPの課題応用編
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+***
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- **下記機能追加**
+  - いいね/コメント機能
+  - フォロー/フォロワー機能
+  - 検索機能
+  - 非同期通信化
+  - 住所自動入力
+  - DM機能
+  - メール送信機能
